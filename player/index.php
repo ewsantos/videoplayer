@@ -10,8 +10,6 @@
 
     <link rel="stylesheet" href="../globals/global.css">
 
-    <script src="./js/main.js"></script>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta charset="utf-8">
@@ -25,6 +23,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+      <script src="./js/main.js"></script>
 
   </head>
 
