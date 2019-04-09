@@ -4,3 +4,11 @@ body{
   background-color: #282828!important;
   color: #fff!important;
 }
+
+#player{
+  margin: 20px;
+}
+
+#player video{
+  width: 100%;
+}
