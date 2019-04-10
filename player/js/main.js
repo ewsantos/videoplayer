@@ -1,4 +1,5 @@
 
+var vid_state = 0;
 
 $(document).ready(function(){
   console.log("hello");
